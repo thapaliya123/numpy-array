@@ -2,7 +2,7 @@
 
 > Content of this repo is created by taking reference from [cognitiveclass.ai](https://cognitiveclass.ai/) and [python data science handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
-_**NOTE: For presentation version [click_here]()**_
+_**NOTE: For presentation version [click_here](https://github.com/thapaliya123/numpy-array/blob/master/presentation/NumPy_presentation.pdf)**_
 <h2>Table of contents</h2>
 <div>
     <div>
