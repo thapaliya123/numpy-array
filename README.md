@@ -1,5 +1,6 @@
 <h1><code>Numpy Array</code></h1>
 
+> Content of this repo is created by taking reference from [cognitiveclass.ai](https://cognitiveclass.ai/) and [python data science handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 <h2>Table of contents</h2>
 <div>
     <div>
