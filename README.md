@@ -63,7 +63,7 @@ _**NOTE: For presentation version [click_here](https://github.com/thapaliya123/n
 </div>
 
 <div>
-    <h4><a href="">find_peak_numpy.py</a></h4>
+    <h4><a href="https://github.com/thapaliya123/numpy-array/blob/master/find_peak_numpy.py">find_peak_numpy.py</a></h4>
     <ul>
     <li>find peak using <strong>naive approach</strong></li>
     <li>find peak using <strong>divide and conquer approach</strong></li>
