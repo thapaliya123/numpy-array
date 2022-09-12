@@ -3,7 +3,7 @@
 <h2>Table of contents</h2>
 <div>
     <div>
-    <h4><a href="https://repo.ekbana.info/MLBatchDecember2020/NLP/anish/blob/Numpy_Array/1D_Numpy.ipynb"> 1D_Numpy.ipynb</a></h4>
+    <h4><a href="https://github.com/thapaliya123/numpy-array/blob/master/1D_Numpy.ipynb"> 1D_Numpy.ipynb</a></h4>
     <ul>
         <li>Preparation</li>
         <li>
@@ -32,7 +32,7 @@
     </div>
 
 <div>
-    <h4><a href="https://repo.ekbana.info/MLBatchDecember2020/NLP/anish/blob/Numpy_Array/2D_Numpy.ipynb"> 2D_Numpy.ipynb</a></h4>
+    <h4><a href="https://github.com/thapaliya123/numpy-array/blob/master/2D_Numpy.ipynb"> 2D_Numpy.ipynb</a></h4>
     <ul>
         <li>Create a 2D Numpy Array</li>
         <li>Accessing different elements of a Numpy Array</li>
@@ -41,7 +41,7 @@
 </div>
 
 <div>
-    <h4><a href="https://repo.ekbana.info/MLBatchDecember2020/NLP/anish/blob/Numpy_Array/Numpy_task.ipynb"> Numpy_task.ipynb</a></h4>
+    <h4><a href="https://github.com/thapaliya123/numpy-array/blob/master/Numpy_task.ipynb"> Numpy_task.ipynb</a></h4>
     <ul>
         <li>
             Numpy Array manipulation
